@@ -28,4 +28,7 @@ What even is Horse Menu? It's one of the best open source mod menus for a *game 
 
   Fair enough, you can always use the original Horse Menu. This project is made for those who want want stronger protections, easier usability, and a safer overall experience. The project will be made open source when I stop maintaining it.
 
+> [!NOTE]
+>  This project is intended strictly for offline use. We do not promote or endorse any software that could, in any way, interfere with the integrity of a game or negatively impact another player’s experience.
+
 > Feel that something is missing? [Open an issue](https://github.com/horse-reloaded/.github/issues/new) to discuss it!
